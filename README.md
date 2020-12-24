@@ -2,5 +2,7 @@
 Implementation of Supervised Machine Learning
 
 Including:
-  ID3
-  Perceptron
+
+    ID3
+  
+    Perceptron
